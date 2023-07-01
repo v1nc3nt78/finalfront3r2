@@ -144,15 +144,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
-/* .dark {
-  background-color: #033f3f;
-  color: white;
-}
-.dark > a {
-  color: white;
-  back: rgb(42, 220, 233);
-} */
-
 input {
   padding: 10px;
   border-radius: 5px;
